@@ -138,7 +138,7 @@ key_name = 'testkey'
 #
 # Default: { derivation = 'cosmos' }, i.e. address derivation as in Cosmos SDK.
 # Warning: This is an advanced feature! Modify with caution.
-address_type = { derivation = 'cosmos' }
+address_type = { derivation = 'sei' }
 
 # Specify the store prefix used by the on-chain IBC modules. Required
 # Recommended value for Cosmos SDK: 'ibc'
